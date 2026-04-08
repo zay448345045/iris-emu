@@ -4,7 +4,8 @@
 
 # 🐣 Iris
 Sony PlayStation 2 emulator for Windows, Linux and macOS 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/allkern/iris&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Total Downloads](https://img.shields.io/github/downloads/allkern/iris/total?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/allkern/iris/releases)
 ## Screenshots
 <div align="center" class="grid" markdown>
     <img width="47%" alt="Metal Gear Solid 3 - Snake Eater (Japan)" src="https://github.com/user-attachments/assets/9ffd0131-5fa0-4e2f-97ee-6d180f7dcdcc" />
